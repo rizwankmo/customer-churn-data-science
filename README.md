@@ -1,1 +1,1 @@
-# customer-churn-data-science
+customer churn data science project with an interactive streamlit app
